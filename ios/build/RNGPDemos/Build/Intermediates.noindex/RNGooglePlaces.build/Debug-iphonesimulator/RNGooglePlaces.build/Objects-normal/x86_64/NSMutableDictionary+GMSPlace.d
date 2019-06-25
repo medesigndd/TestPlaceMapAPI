@@ -1,0 +1,31 @@
+dependencies: \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native-google-places/ios/NSMutableDictionary+GMSPlace.m \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native-google-places/ios/NSMutableDictionary+GMSPlace.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlusCode.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSOpeningHours.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteSessionToken.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceFieldMask.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteBoundsMode.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/ios/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h

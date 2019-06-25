@@ -1,0 +1,57 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+source 'https://github.com/CocoaPods/Specs.git'
+
+plugin 'cocoapods-keys'
+
+target 'RNGPDemos' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for RNGPDemos
+
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+
+# platform :ios, '9.0' 
+ 
+platform :ios, '9.0'
+platform :ios
+ 
+  # Pods for _YOUR_PROJECT_TARGET_ 
+  pod 'React', :path => '../node_modules/react-native', :subspecs => [
+    'Core',
+    'CxxBridge',
+    'DevSupport',
+    'RCTText',
+    'RCTImage',
+    'RCTNetwork',
+    'RCTWebSocket',
+    'RCTSettings',
+    'RCTAnimation',
+    'RCTLinkingIOS',
+    # Add any other subspecs you want to use in your project 
+    # Remove any subspecs you don't want to use in your project 
+  ]
+ 
+  pod "yoga", :path => "../node_modules/react-native/ReactCommon/yoga"
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+  # This should already be auto-added for you, if not add the line below 
+  pod 'react-native-google-places', :path => '../node_modules/react-native-google-places'
+ 
+end
+ 
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if target.name == 'react-native-google-places'
+      target.build_configurations.each do |config|
+        config.build_settings['CLANG_ENABLE_MODULES'] = 'No'
+      end
+    end
+    if target.name == "React"
+      target.remove_from_project
+    end
+  end
+end

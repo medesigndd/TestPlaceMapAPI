@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7835092D-D02B-440C-B919-77930E69D994</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7835092D-D02B-440C-B919-77930E69D994.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RNGPDemos project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RNGPDemos</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RNGPDemos with scheme RNGPDemos and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583078664.04583704</real>
+			<key>timeStoppedRecording</key>
+			<real>583078666.108688</real>
+			<key>title</key>
+			<string>Building workspace RNGPDemos with scheme RNGPDemos and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7835092D-D02B-440C-B919-77930E69D994</string>
+		</dict>
+		<key>F2E42453-40A7-4650-BBFD-1996F495E13C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2E42453-40A7-4650-BBFD-1996F495E13C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RNGPDemos project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RNGPDemos</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RNGPDemos with scheme RNGPDemos and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583076770.25506794</real>
+			<key>timeStoppedRecording</key>
+			<real>583076772.46169996</real>
+			<key>title</key>
+			<string>Building workspace RNGPDemos with scheme RNGPDemos and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F2E42453-40A7-4650-BBFD-1996F495E13C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

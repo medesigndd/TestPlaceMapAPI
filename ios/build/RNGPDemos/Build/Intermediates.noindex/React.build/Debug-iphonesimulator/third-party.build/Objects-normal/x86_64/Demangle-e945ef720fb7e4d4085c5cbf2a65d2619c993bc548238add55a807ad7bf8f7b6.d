@@ -1,0 +1,24 @@
+dependencies: \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

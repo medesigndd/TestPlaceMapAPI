@@ -1,0 +1,26 @@
+dependencies: \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Applications/MAMP/htdocs/ReactNativeMobileApp/RNGPDemos-master/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
